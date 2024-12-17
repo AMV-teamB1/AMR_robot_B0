@@ -4,7 +4,7 @@
 - Task 0: Simulation 10%
 - Task 1: Pick and Place 20%
 - Task 2: Stacking 20%
-- Task 3: Integration 30% -- Tower of Hanoi (河內塔)
+- Task 3: Integration 30%
 
 ## 分工:
 
