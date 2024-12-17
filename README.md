@@ -19,4 +19,4 @@
 - HanoTower: Task 3 (Tower of Hanoi)
 
 ## 照片:
-![image](images/IMG_2695.JPG)
+
