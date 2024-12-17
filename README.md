@@ -24,3 +24,5 @@
 
 ## 照片：
 ![image](https://github.com/AMV-teamB1/AMR_robot_B0/blob/main/images/IMG_2820.JPG)
+![image](https://github.com/AMV-teamB1/AMR_robot_B0/blob/main/images/IMG_2824.JPG)
+![image](https://github.com/AMV-teamB1/AMR_robot_B0/blob/main/images/IMG_2843.JPG)
