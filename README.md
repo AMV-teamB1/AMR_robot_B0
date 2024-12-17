@@ -20,7 +20,7 @@
 - Stacking資料夾: Task 2 (Stacking)
 - 摺衣服: task 3 (摺衣服)
 - AMR資料夾:
-- AMR_tracking: Nvidia AMR 循跡與避障小車
+    - AMR_tracking: Nvidia AMR 循跡與避障小車
 
 ## 照片:
 
