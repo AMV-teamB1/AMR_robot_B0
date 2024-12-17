@@ -5,6 +5,7 @@
 - Task 1: Pick and Place 20%
 - Task 2: Stacking 20%
 - Task 3: Integration 30% -機器手臂摺衣服
+- https://youtu.be/hm9fRj_ozjQ
 
 ## 分工：
 * 鐘咚咚：Robot 手臂操作、AMR 程式撰寫
@@ -27,3 +28,5 @@
 ![image](https://github.com/AMV-teamB1/AMR_robot_B0/blob/main/images/IMG_2820.JPG)
 ![image](https://github.com/AMV-teamB1/AMR_robot_B0/blob/main/images/IMG_2824.JPG)
 ![image](https://github.com/AMV-teamB1/AMR_robot_B0/blob/main/images/IMG_2843.JPG)
+
+
