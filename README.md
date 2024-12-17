@@ -16,7 +16,6 @@
 
 - PickPlace: Task 1 (Pick and Place)
 - Stacking: Task 2 (Stacking)
-- HanoTower: Task 3 (Tower of Hanoi)
 
 ## 照片:
 
