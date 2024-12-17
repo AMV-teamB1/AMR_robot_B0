@@ -1,0 +1,57 @@
+> go Infeed_Block+z(200)
+> on 8
+> go Tray_Token1 +z(100)
+> off 8
+> go Infeed_Block+z(100)
+>on 8
+> off 8
+> go Infeed_Block
+> on 8
+> go Align_Token +z(30)
+> off 8
+> go Align_Block
+> on 8
+> go Tray_Token1 + z(30)
+> off 8
+> go Tray_Block3+z(20)
+> go Tray_Block3+z(20)
+> go Align_Block+z(20)
+> go Align_Block
+> on 8
+> go Tray_Block3+z(20)
+> off 8
+>go Align_Block+z(20)
+> go Align_Block
+> on 8
+> go Tray_Block3 +z(20)
+> off 8
+> go Align_Block+z(20)
+> go Align_Block+z(20)
+> go Align_Block
+> on 8
+> off 8
+> go Align_Block
+> on 8
+> goTray_Block2 +z(20)
+!!Error: 3100, Syntax error.
+> go Tray_Block2 +z(20)
+> of 8
+!!Error: 3100, Syntax error.
+> off 8
+> off 8
+> off 8
+> on 11
+> 
+> off 11
+> on 11
+> off 11
+> on 11
+> off 11
+> go Align_Block+z(200)
+> on 11
+> off 11
+> go down_s
+> on 11
+> off 11
+> go down_s
+> 
