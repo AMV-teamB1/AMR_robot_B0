@@ -9,7 +9,7 @@
 ## 分工:
 
 * Robot Programming (RO)
-* Electrial (EE)
+* Electrial (EE) 中咚咚
 * Mechanical (ME)
 
 ## 檔案架構說明:
