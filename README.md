@@ -23,4 +23,4 @@
     - AMR_tracking: Nvidia AMR 循跡與避障小車
 
 ## 照片：
-
+![image]([picture or gif url](https://github.com/AMV-teamB1/AMR_robot_B0/blob/main/images/IMG_2820.JPG))
